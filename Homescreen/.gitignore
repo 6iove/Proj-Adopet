@@ -1,0 +1,31 @@
+# dependências
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# builds nativos
+android/
+ios/
+
+# cache
+.cache/
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# env
+.env
+.env.local
+.env.*.local
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# typescript
+*.tsbuildinfo
